@@ -6,6 +6,23 @@
 
 ###
 
+<p align="left">Srdjan is an accomplished Full-Stack Developer, Speaker, and Educator with a strong commitment to imparting knowledge to fellow developers through informative content. With an extensive background spanning over two decades in Software Development and Developer Advocacy, he holds the position of a dedicated full-time Teacher and Technical Content Creator. Srdjan's profound enthusiasm lies in the domains of web development, digital design, and the startup ecosystem.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌍 I'm based in Denmark<br>✨ Creating bugs since 1997<br>🏡 My website<br>🎲 Fun fact: I go fishing every weekend.</p>
+
+###
+
+
+<h2 align="left">Social</h2>
+
+###
+
 <div align="center">
   <a href="https://www.youtube.com/c/DevTeacher/…" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -17,18 +34,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Srdjan is an accomplished Full-Stack Developer, Speaker, and Educator with a strong commitment to imparting knowledge to fellow developers through informative content. With an extensive background spanning over two decades in Software Development and Developer Advocacy, he holds the position of a dedicated full-time Teacher and Technical Content Creator. Srdjan's profound enthusiasm lies in the domains of web development, digital design, and the startup ecosystem.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌍 I'm based in Denmark<br>✨ Creating bugs since 1997<br>🏡 My website<br>🎲 Fun fact: I go fishing every weekend.</p>
 
 ###
 
@@ -50,3 +55,4 @@
 </div>
 
 ###
+
