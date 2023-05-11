@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Denmark<br>✨ Creating bugs since 1997<br>🏡 My website<br>🎲 Fun fact: I go fishing every weekend.</p>
+<p align="left">🌍 I'm based in Denmark<br>✨ Creating bugs since 1997<br>🏡   <a href="https://www.devteacher.dk" target="_blank">My website</a><br>🎲 Fun fact: I go fishing every weekend.</p>
 
 ###
 
