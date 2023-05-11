@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full-Stack Developer. Father. Teacher.</h3>
+<h2 align="left">Full-Stack Developer. Father. Teacher.</h2>
 
 ###
 
